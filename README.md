@@ -17,7 +17,6 @@ This repository showcases how to integrate Excel export capabilities into a Blaz
 - **Group Caption Customization** - Style grouped data and group caption rows
 - **Aggregate Customization** - Format and customize aggregate rows in exports
 - **Data Source Customization** - Export filtered or processed data with custom logic
-- **Interactive Examples** - Explore 11 different export scenarios with live working examples
 
 ## Prerequisites
 
