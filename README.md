@@ -31,7 +31,6 @@ This repository showcases how to integrate Excel export capabilities into a Blaz
 ```bash
 git clone https://github.com/SyncfusionExamples/Export-Blazor-DataGrid-to-Excel.git
 cd Export-Blazor-DataGrid-to-Excel
-cd Grid_Excel_Export
 ```
 
 ### Run with Visual Studio
